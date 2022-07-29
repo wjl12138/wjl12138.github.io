@@ -9,8 +9,32 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>海是一座没有墙的城,那思念就是无声的海浪</description>
-    <pubDate>Thu, 28 Jul 2022 03:12:09 GMT</pubDate>
+    <pubDate>Fri, 29 Jul 2022 02:40:24 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>我的博客</title>
+      <link>http://example.com/2022/07/29/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</link>
+      <guid>http://example.com/2022/07/29/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</guid>
+      <pubDate>Fri, 29 Jul 2022 02:38:02 GMT</pubDate>
+      
+        
+        
+      <description>&lt;pre&gt;&lt;code&gt;说实话,瞎写着玩的
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<pre><code>说实话,瞎写着玩的</code></pre>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2022/07/29/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
